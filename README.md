@@ -42,7 +42,7 @@ plt.legend()
 plt.show()
 
 Output Waveform:
-![ideal sampling output](https://github.com/user-attachments/assets/fab01b03-2d86-46f0-89ef-5e4a7e313e19)
+![image](https://github.com/user-attachments/assets/b1a268d0-5b6f-442c-9a7f-a98eeed9b5f7)
 
 Results:
 The Construction or Re-construction of impulse or ideal sampling using python are verified.
