@@ -1,10 +1,10 @@
-Aim:
+##Aim:
 To perform Construction and Re-contruction of impluse or ideal sampling using python.
 
-Tools required:
+##Tools required:
 python IDE with Numpy and Scipy
 
-Program:
+##Program:
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -41,7 +41,7 @@ plt.grid(True)
 plt.legend()
 plt.show()
 Output Waveform:
-image image image
+![ideal sampling output](https://github.com/user-attachments/assets/fab01b03-2d86-46f0-89ef-5e4a7e313e19)
 
 Results:
 The Construction or Re-construction of impulse or ideal sampling using python are verified.
